@@ -1,7 +1,8 @@
 # Autonomous Delivery Interface
 
 ## 📦 Project Overview
-This microservice handles delivery requests, tracks autonomous delivery bots, and interfaces with users and operators.
+This microservice handles delivery requests, tracks autonomous delivery routing, and interfaces with users and operators.
+This interface is to test an AI model for autonomous routing. 
 
 ## 👥 Team Members
 - Abdulrahman Sharqawi (CI/CD Engineer)
